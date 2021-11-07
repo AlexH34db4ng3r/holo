@@ -3,4 +3,29 @@ h1 {
 	border: 20% solid yellow;
 	font-size: 100px;
 	color: blue;
+	text-align: center;
 }
+
+
+.container {
+	margin-left: 500px;
+	align-items: center;
+
+}
+
+.boton {
+	width: 50%;
+	background: black;
+	color: whitesmoke;
+	font-family: cursive;
+	font-size: 70px;
+	border-radius: 70px;
+	box-shadow: 10px 5px 5px black;;
+}
+
+.boton:hover {
+	background: yellow;
+	color:black;
+
+}
+
